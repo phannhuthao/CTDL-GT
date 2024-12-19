@@ -8,4 +8,5 @@ add_executable(CTDL_GT main.c
         "Session 2/bt2.c"
         "Session 2/bt3.c"
         "Session 2/bt4.c"
-        "Session 2/bt5.c")
+        "Session 2/bt5.c"
+        "Session 2/bt6.c")
