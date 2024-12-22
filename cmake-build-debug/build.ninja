@@ -121,6 +121,12 @@ build CMakeFiles/CTDL_GT.dir/Session3/bt5.c.obj: C_COMPILER__CTDL_GT_unscanned_D
   OBJECT_DIR = CMakeFiles\CTDL_GT.dir
   OBJECT_FILE_DIR = CMakeFiles\CTDL_GT.dir\Session3
 
+build CMakeFiles/CTDL_GT.dir/Session3/bt6.c.obj: C_COMPILER__CTDL_GT_unscanned_Debug C$:/Users/DELL/CLionProjects/CTDL-GT/Session3/bt6.c || cmake_object_order_depends_target_CTDL_GT
+  DEP_FILE = CMakeFiles\CTDL_GT.dir\Session3\bt6.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CTDL_GT.dir
+  OBJECT_FILE_DIR = CMakeFiles\CTDL_GT.dir\Session3
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CTDL_GT
@@ -129,7 +135,7 @@ build CMakeFiles/CTDL_GT.dir/Session3/bt5.c.obj: C_COMPILER__CTDL_GT_unscanned_D
 #############################################
 # Link the executable CTDL_GT.exe
 
-build CTDL_GT.exe: C_EXECUTABLE_LINKER__CTDL_GT_Debug CMakeFiles/CTDL_GT.dir/main.c.obj CMakeFiles/CTDL_GT.dir/Session_2/Bt1.c.obj CMakeFiles/CTDL_GT.dir/Session_2/bt2.c.obj CMakeFiles/CTDL_GT.dir/Session_2/bt3.c.obj CMakeFiles/CTDL_GT.dir/Session_2/bt4.c.obj CMakeFiles/CTDL_GT.dir/Session_2/bt5.c.obj CMakeFiles/CTDL_GT.dir/Session_2/bt6.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt1.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt2.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt3.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt4.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt5.c.obj
+build CTDL_GT.exe: C_EXECUTABLE_LINKER__CTDL_GT_Debug CMakeFiles/CTDL_GT.dir/main.c.obj CMakeFiles/CTDL_GT.dir/Session_2/Bt1.c.obj CMakeFiles/CTDL_GT.dir/Session_2/bt2.c.obj CMakeFiles/CTDL_GT.dir/Session_2/bt3.c.obj CMakeFiles/CTDL_GT.dir/Session_2/bt4.c.obj CMakeFiles/CTDL_GT.dir/Session_2/bt5.c.obj CMakeFiles/CTDL_GT.dir/Session_2/bt6.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt1.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt2.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt3.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt4.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt5.c.obj CMakeFiles/CTDL_GT.dir/Session3/bt6.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CTDL_GT.dir
