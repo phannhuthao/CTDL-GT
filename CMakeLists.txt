@@ -13,4 +13,5 @@ add_executable(CTDL_GT main.c
         Session3/bt1.c
         Session3/bt2.c
         Session3/bt3.c
+        Session3/bt4.c
 )
