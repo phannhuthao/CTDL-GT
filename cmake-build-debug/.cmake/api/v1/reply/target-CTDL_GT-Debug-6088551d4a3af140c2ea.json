@@ -59,7 +59,8 @@
 				4,
 				5,
 				6,
-				7
+				7,
+				8
 			]
 		}
 	],
@@ -160,7 +161,8 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "test.cpp",
+			"compileGroupIndex" : 0,
+			"path" : "Session3/bt2.c",
 			"sourceGroupIndex" : 0
 		}
 	],
