@@ -4,16 +4,21 @@ project(CTDL_GT C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(CTDL_GT main.c
-        "Session 2/Bt1.c"
-        "Session 2/bt2.c"
-        "Session 2/bt3.c"
-        "Session 2/bt4.c"
-        "Session 2/bt5.c"
-        "Session 2/bt6.c"
+        "Session2/Bt1.c"
+        "Session2/bt2.c"
+        "Session2/bt3.c"
+        "Session2/bt4.c"
+        "Session2/bt5.c"
+        "Session2/bt6.c"
         Session3/bt1.c
         Session3/bt2.c
         Session3/bt3.c
         Session3/bt4.c
         Session3/bt5.c
         Session3/bt6.c
+        Session4/bt1.c
+        Session4/bt2.c
+        Session4/bt3.c
+        Session4/bt4.c
+        Session4/bt5.c
 )
