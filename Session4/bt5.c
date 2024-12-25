@@ -67,6 +67,6 @@ int main() {
 
     printf("Danh sach sau khi chen: ");
     show(head);
-
+st
     return 0;
 }
