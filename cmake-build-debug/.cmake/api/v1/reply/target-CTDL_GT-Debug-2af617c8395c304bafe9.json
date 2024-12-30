@@ -80,7 +80,10 @@
 				25,
 				26,
 				27,
-				28
+				28,
+				29,
+				30,
+				31
 			]
 		}
 	],
@@ -145,7 +148,10 @@
 				25,
 				26,
 				27,
-				28
+				28,
+				29,
+				30,
+				31
 			]
 		}
 	],
@@ -323,6 +329,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Session7/bt3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session7/bt4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session7/bt5.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session7/bt6.c",
 			"sourceGroupIndex" : 0
 		}
 	],
