@@ -35,4 +35,10 @@ add_executable(CTDL_GT main.c
         Session7/bt4.c
         Session7/bt5.c
         Session7/bt6.c
+        Session8/bt1.c
+        Session8/bt2.c
+        Session8/bt3.c
+        Session8/bt4.c
+        Session8/bt5.c
+        Session8/bt6.c
 )

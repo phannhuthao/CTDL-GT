@@ -83,7 +83,13 @@
 				28,
 				29,
 				30,
-				31
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37
 			]
 		}
 	],
@@ -151,7 +157,13 @@
 				28,
 				29,
 				30,
-				31
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37
 			]
 		}
 	],
@@ -347,6 +359,42 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Session7/bt6.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session8/bt1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session8/bt2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session8/bt3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session8/bt4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session8/bt5.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session8/bt6.c",
 			"sourceGroupIndex" : 0
 		}
 	],
