@@ -6,7 +6,7 @@ void bubbleSort(int arr[], int n, int ascending) {
         swapped = 0;
         for (int j = 0; j < n-i-1; j++) {
             if ((ascending && arr[j] > arr[j+1]) || (!ascending && arr[j] < arr[j+1])) {
-                // Hoán đổi hai phần tử
+
                 int temp = arr[j];
                 arr[j] = arr[j+1];
                 arr[j+1] = temp;
