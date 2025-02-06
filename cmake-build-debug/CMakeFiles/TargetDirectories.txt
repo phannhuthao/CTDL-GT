@@ -1,3 +1,0 @@
-C:/Users/DELL/CLionProjects/CTDL-GT/cmake-build-debug/CMakeFiles/CTDL_GT.dir
-C:/Users/DELL/CLionProjects/CTDL-GT/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/DELL/CLionProjects/CTDL-GT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
